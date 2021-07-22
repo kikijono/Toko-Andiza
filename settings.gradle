@@ -1,0 +1,2 @@
+rootProject.name = "Toko Online Andiza"
+include ':app'
